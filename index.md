@@ -15,6 +15,8 @@ I currently provide specialist rheumatology consultations at **Poliambulatorio O
 * **Mestre (VE):** Via Gozzi 55
 * **Vicenza (VI):** Via Zamenhof 803
 
+📅 **[Prenota una visita / Request an appointment](mailto:laurascagnellato@gmail.com?subject=Richiesta%20Appuntamento%20/%20Appointment%20Request)**
+
 ## 🔬 Ricerca / Research Activity
 My academic and research appointments include:
 
