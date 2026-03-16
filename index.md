@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dr.ssa Laura Scagnellato
+---
+
 # Dr.ssa Laura Scagnellato
 
 Medico Specialista in Reumatologia 
