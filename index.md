@@ -6,7 +6,8 @@ title: Dr.ssa Laura Scagnellato
 # Dr.ssa Laura Scagnellato
 *Medico Specialista in Reumatologia | Specialist Consultant in Rheumatology*
 
-Welcome. I am a Rheumatology Specialist dividing my time between clinical practice in the Veneto region and advanced academic research in Italy and the UK. 
+Welcome. 
+I am a Rheumatology Specialist dividing my time between clinical practice in the Veneto region and advanced academic research in Italy and the UK. 
 
 ## 🩺 Attività Clinica / Clinical Practice
 I currently provide specialist rheumatology consultations at **Poliambulatorio Ottagono**:
