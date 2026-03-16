@@ -4,37 +4,22 @@ title: Dr.ssa Laura Scagnellato
 ---
 
 # Dr.ssa Laura Scagnellato
+*Medico Specialista in Reumatologia | Specialist Consultant in Rheumatology*
 
-Medico Specialista in Reumatologia  
-Specialist Consultant in Rheumatology
+Welcome. I am a Rheumatology Specialist dividing my time between clinical practice in the Veneto region and advanced academic research in Italy and the UK. 
 
-## Attività Clinica
+## 🩺 Attività Clinica / Clinical Practice
+I currently provide specialist rheumatology consultations at **Poliambulatorio Ottagono**:
 
-**Poliambulatorio Ottagono**
+* **Mestre (VE):** Via Gozzi 55
+* **Vicenza (VI):** Via Zamenhof 803
 
-- Via Gozzi 55 – Mestre (VE)
-- Via Zamenhof 803 – Vicenza (VI)
+## 🔬 Ricerca / Research Activity
+My academic and research appointments include:
 
-## Clinical Activity
+* **PhD Student / Dottoranda:** Azienda Ospedale Università di Padova 
+* **Clinical Research Fellow:** University College London (UCL) Institute of Child Health
 
-Appointments available at:
-
-- Mestre (VE), Italy
-- Vicenza (VI), Italy
-
-## Attività di Ricerca
-
-- Dottoranda – Azienda Ospedale Università di Padova  
-- Fellow – University College London Institute of Child Health
-
-## Research Activity
-
-- PhD student – University Hospital of Padua  
-- Clinical Research Fellow – UCL Institute of Child Health
-
-
-## Contacts: 
-Email: laurascagnellato@gmail.com
-Github: https://github.com/rheumalaura
-
-
+## ✉️ Contatti / Contact
+* **Email:** [laurascagnellato@gmail.com](mailto:laurascagnellato@gmail.com)
+* **GitHub:** [@rheumalaura](https://github.com/rheumalaura)
