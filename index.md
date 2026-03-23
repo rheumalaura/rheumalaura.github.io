@@ -4,7 +4,6 @@ title: Dr.ssa Laura Scagnellato
 ---
 
 *Medico Specialista in Reumatologia* 
-*Specialist Consultant in Rheumatology*
 
 Benvenuta e benvenuto.
 Svolgo attività clinica tra Padova, Venezia e Vicenza, affiancando la pratica clinica alla ricerca accademica in Italia e nel Regno Unito.
