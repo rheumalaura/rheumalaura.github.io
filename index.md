@@ -9,21 +9,40 @@ title: Dr.ssa Laura Scagnellato
 Welcome. 
 I am a Rheumatology Specialist dividing my time between clinical practice in the area of Padova, Venice and Vicenza and advanced academic research in Italy and the UK. 
 
-## Di cosa mi occupo? What are my areas of expertise? 
+## Di cosa mi occupo? What are my areas of expertise?
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Artropatie infiammatorie croniche 
-    Chronic Inflammatory Arthropathies</span>
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Artrosi 
-    Osteoarthritis</span>
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Connettiviti 
-    Connective Tissue Diseases</span>
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Malattie autoimmuni ad esordio giovanile
-    Juvenile Onset Autoimmune Diseases</span>
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Fibromialgia 
-    Fibromyalgia</span>
-  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Diagnostica differenziale
-    Diagnostic Pathways</span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Artropatie Infiammatorie Croniche
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Chronic Inflammatory Arthropathies</em>
+  </span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Artrosi
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Osteoarthritis</em>
+  </span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Malattie del Tessuto Connettivo
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Connective Tissue Diseases</em>
+  </span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Malattie Autoimmuni ad Esordio Giovanile
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Juvenile Onset Autoimmune Diseases</em>
+  </span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Fibromialgia
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Fibromyalgia</em>
+  </span>
+
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5; display: inline-flex; flex-direction: column; align-items: center;">
+    Percorsi Diagnostici
+    <em style="font-size: 0.78em; font-weight: 400; color: #4a6a9e;">Diagnostic Pathways</em>
+  </span>
+
 </div>
 
 ## 🩺 Attività Clinica / Clinical Practice
