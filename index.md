@@ -11,7 +11,7 @@ Svolgo attività clinica tra Padova, Venezia e Vicenza, affiancando la pratica c
 Welcome.
 I am a Rheumatology Specialist with clinical practice across Padova, Venice and Vicenza, alongside academic research in Italy and the UK.
 
-## Di cosa mi occupo? What are my areas of expertise?
+## Di cosa mi occupo? / What are my areas of expertise?
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
 
