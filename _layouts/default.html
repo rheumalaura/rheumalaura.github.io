@@ -7,13 +7,56 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    <style>
+      /* Center all main content */
+      .main-content {
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      /* Keep lists left-aligned for readability */
+      .main-content ul {
+        display: inline-block;
+        text-align: left;
+      }
+
+      /* Center the expertise tags */
+      .main-content div[style] {
+        justify-content: center;
+      }
+
+      /* Logo responsive */
+      .page-header img {
+        max-width: 320px;
+        width: 75%;
+        height: auto;
+      }
+
+      /* Headings spacing */
+      .main-content h2 {
+        margin-top: 2em;
+      }
+
+      /* Mobile tweaks */
+      @media (max-width: 600px) {
+        .main-content {
+          padding: 12px;
+          font-size: 0.97em;
+        }
+        .page-header img {
+          width: 60%;
+        }
+      }
+    </style>
   </head>
   <body>
     <section class="page-header">
       <a href="{{ '/' | relative_url }}">
         <img src="{{ '/LOGO_LS.png' | relative_url }}" 
              alt="Dr.ssa Laura Scagnellato" 
-             style="max-width: 300px; width: 80%;">
+             style="max-width: 320px; width: 75%;">
       </a>
       <p class="project-tagline">{{ site.description }}</p>
     </section>
