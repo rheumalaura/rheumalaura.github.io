@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Dr.ssa Laura Scagnellato
----
-
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/rheumalaura/rheumalaura.github.io/main/LOGO_LS.png" 
        alt="Dr.ssa Laura Scagnellato - Specialist Consultant in Rheumatology" 
        style="max-width: 400px; width: 100%;">
 </div>
 
-*Medico Specialista in Reumatologia | Specialist Consultant in Rheumatology*
+---
+
+*Medico Specialista in Reumatologia* 
+*Specialist Consultant in Rheumatology*
 
 Benvenuta e benvenuto. 
 Svolgo attività clinica tra Padova, Venezia e Vicenza, affiancando la pratica clinica alla ricerca accademica in Italia e nel Regno Unito.
