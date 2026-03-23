@@ -9,6 +9,23 @@ title: Dr.ssa Laura Scagnellato
 Welcome. 
 I am a Rheumatology Specialist dividing my time between clinical practice in the area of Padova, Venice and Vicenza and advanced academic research in Italy and the UK. 
 
+## Di cosa mi occupo? What are my areas of expertise? 
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Artropatie infiammatorie croniche 
+    Chronic Inflammatory Arthropathies</span>
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Artrosi 
+    Osteoarthritis</span>
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Connettiviti 
+    Connective Tissue Diseases</span>
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;"> Malattie autoimmuni ad esordio giovanile
+    Juvenile Onset Autoimmune Diseases</span>
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Fibromialgia 
+    Fibromyalgia</span>
+  <span style="background-color: #e8f0fe; color: #1a3c6e; padding: 10px 18px; border-radius: 25px; font-size: 0.95em; font-weight: 500; border: 1px solid #b3c8f5;">Diagnostica differenziale
+    Diagnostic Pathways</span>
+</div>
+
 ## 🩺 Attività Clinica / Clinical Practice
 I currently provide specialist rheumatology consultations at **Poliambulatorio Ottagono**:
 
