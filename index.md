@@ -1,12 +1,11 @@
 ---
 layout: default
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/rheumalaura/rheumalaura.github.io/main/LOGO_LS.png" 
-       alt="Dr.ssa Laura Scagnellato - Specialist Consultant in Rheumatology" 
-       style="max-width: 400px; width: 100%;">
-</div>
-
+title: Dr.ssa Laura Scagnellato
 ---
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/rheumalaura/rheumalaura.github.io/main/LOGO_LS.png" ...>
+</div>
 
 *Medico Specialista in Reumatologia* 
 *Specialist Consultant in Rheumatology*
